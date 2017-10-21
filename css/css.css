@@ -1,0 +1,133 @@
+
+#header{
+  background-color:#031016;
+  width:100%;
+  height:170px;
+}
+.header1{
+  display: inline-block;
+  width:437px;
+  height:170px;
+}
+.header2{
+  display: inline-block;
+  width:1000px;
+  height:170px;
+}
+.site-nav{
+  float:left;
+  width:1000px;
+  margin: 0px;
+  padding: 5px 0 20px 0;
+  overflow: hidden;
+}
+.nbalogo{
+  background-image: url(../img/nbalogo48px.png);
+  background-repeat: no-repeat;
+  height: 30px;
+  padding-left: 24px;
+  display: inline-block;
+}
+.sinalogo{
+  background-image: url(../img/sina32px.png);
+  background-repeat: no-repeat;
+  float: right;
+  padding-left: 33px;
+  height: 30px;}
+.a{
+  display: inline-block;
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+}
+.a2{
+  display: inline-block;
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+}
+.header3{
+  display: inline-block;
+  width:437px;
+  height:170px;
+}
+.teamlogo{
+  background-image: url(../img/logo3.png);
+  background-repeat: no-repeat;
+  padding-left: 98px;
+  padding-top: 20px;
+  padding-bottom: 40px;
+  float: left;
+  height: 50px;
+  width: 250px;
+}
+.regular{
+  color:white;
+  border-right-width:1px;
+  border-right-style: solid;
+  border-right-color:#010513;
+  padding-right: 10px;
+}
+.rank{
+  color:white;
+  padding-left: 10px;
+}
+.p{
+  margin-top: 20px;
+  margin-bottom: 0px;
+}
+.p2{
+  margin-top: 5px;
+}
+.a3{
+    text-decoration: none;
+    color: #fff;
+}
+.teaminformation{
+  float: right;
+  color: white;
+  list-style-type:none;
+  margin-top: 0px;
+}
+.content{
+  width: 100%;
+  height: 910px;
+  background-image: url(http://mat1.gtimg.com/chinanba/web/statics/spurs-bg_d35184.jpg);
+  background-repeat: no-repeat;
+}
+.content1{
+  display: inline-block;
+  width:437px;
+  float: left;
+  height: 910px;
+}
+.content2{
+  width:327px;
+  color: white;
+  display: inline-block;
+  background-image: url(../img/timg.jpg);
+  background-repeat: no-repeat;
+  background-position: right top;
+  height: 885px;
+  float:left;
+  padding-right: 481px;
+  padding-top: 25px;
+}
+.content3{
+  display: inline-block;
+  height: 910px;
+  width:193px;
+}
+.content4{
+  width:450px;
+  float: right;
+  display: inline-block;
+  height: 910px;
+}
+.footer{
+  background-color:#031016;
+  width:100%;
+  height:170px;
+  text-align:center;
+  color:white;
+}
